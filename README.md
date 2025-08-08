@@ -51,11 +51,10 @@ It’s fully responsive, optimised for all devices, and ideal for product market
 ## 📷 Screenshots
 
 ### 💻 Desktop View
-![Desktop Screenshot](https://ibb.co/N6fDm8jd)
+![Desktop Screenshot]([url=https://ibb.co/N6fDm8jd][img]https://i.ibb.co/d0XCLd2w/1.png[/img][/url])
 
 ### 📱 Mobile View
-![Mobile Screenshot](https://ibb.co/pjvcY1Tr)
-
+![Mobile Screenshot](https://i.ibb.co/9H96Qp03/5.png)
 ---
 ## 📩 Contact
 
