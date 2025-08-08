@@ -44,14 +44,14 @@ It’s fully responsive, optimised for all devices, and ideal for product market
 ---
 
 ## 🌐 Live Demo
-🔗 **[View Project](YOUR_LIVE_PROJECT_LINK)**
+🔗 **[View Project](https://github.com/Bilalnasir057558/Product-Landing-Page---Bikestan)**
 
 ---
 
 ## 📷 Screenshots
 
 ### 💻 Desktop View
-![Desktop Screenshot](screenshot-desktop.png)
+![Desktop Screenshot](1.png)
 
 ### 📱 Mobile View
 ![Mobile Screenshot](screenshot-mobile.png)
