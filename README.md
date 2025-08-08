@@ -51,7 +51,7 @@ It’s fully responsive, optimised for all devices, and ideal for product market
 ## 📷 Screenshots
 
 ### 💻 Desktop View
-![Desktop Screenshot]([url=https://ibb.co/N6fDm8jd][img]https://i.ibb.co/d0XCLd2w/1.png[/img][/url])
+![Desktop Screenshot](https://i.ibb.co/d0XCLd2w/1.png)
 
 ### 📱 Mobile View
 ![Mobile Screenshot](https://i.ibb.co/9H96Qp03/5.png)
